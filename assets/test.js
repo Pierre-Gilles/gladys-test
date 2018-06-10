@@ -1,1 +1,1 @@
-alert('It worked !');
+console.log('Hook test is here!');
